@@ -47,11 +47,6 @@ ehthumbs.db
 Thumbs.db
 
 # Data
-*.csv
-*.dat
-*.out
-data/raw/*
-data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
